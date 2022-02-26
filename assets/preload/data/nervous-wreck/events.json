@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "cave",
+		"player1": "bfp",
+		"player2": "stamp",
+		"player3": null,
+		"events": [
+			[
+				24303.7974683544,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				25822.7848101266,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				40253.1645569621,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				41012.6582278481,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				48607.5949367089,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				65316.4556962026,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				75949.3670886077,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				81075.9493670887,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfnospeak",
+		"bpm": 158,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Nervous Wreck"
+	}
+}
