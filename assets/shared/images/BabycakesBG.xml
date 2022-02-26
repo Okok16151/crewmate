@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BabycakesBG.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG instance 10000" x="0" y="0" width="2757" height="1174" pivotX="0" pivotY="0"/>
+</TextureAtlas>

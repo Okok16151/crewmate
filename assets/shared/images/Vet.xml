@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Vet.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Vet0000" x="0" y="0" width="506" height="499" pivotX="32.45" pivotY="0"/>
+	<SubTexture name="Vet0001" x="0" y="0" width="506" height="499"/>
+	<SubTexture name="Vet0002" x="0" y="0" width="506" height="499"/>
+	<SubTexture name="Vet0003" x="0" y="0" width="506" height="499"/>
+	<SubTexture name="Vet0004" x="0" y="0" width="506" height="499"/>
+	<SubTexture name="Vet0005" x="0" y="0" width="506" height="499"/>
+	<SubTexture name="Vet0006" x="0" y="0" width="506" height="499"/>
+	<SubTexture name="Vet0007" x="0" y="0" width="506" height="499"/>
+	<SubTexture name="Vet0008" x="0" y="0" width="506" height="499"/>
+	<SubTexture name="Vet0009" x="0" y="0" width="506" height="499"/>
+	<SubTexture name="Vet0010" x="0" y="0" width="506" height="499"/>
+	<SubTexture name="Vet0011" x="0" y="0" width="506" height="499"/>
+	<SubTexture name="Vet0012" x="0" y="0" width="506" height="499"/>
+	<SubTexture name="Vet0013" x="0" y="0" width="506" height="499"/>
+</TextureAtlas>

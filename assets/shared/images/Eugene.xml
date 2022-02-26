@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Eugene.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Eugene0000" x="0" y="0" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="Eugene0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="Eugene0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="Eugene0003" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="Eugene0004" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="Eugene0005" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="Eugene0006" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="Eugene0007" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="Eugene0008" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="Eugene0009" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="Eugene0010" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="Eugene0011" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="Eugene0012" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="Eugene0013" x="1280" y="1440" width="1280" height="720"/>
+</TextureAtlas>

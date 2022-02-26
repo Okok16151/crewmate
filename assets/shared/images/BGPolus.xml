@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGPolus.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg instance 10000" x="0" y="0" width="5223" height="3222" pivotX="547.4" pivotY="-364.1"/>
+</TextureAtlas>
