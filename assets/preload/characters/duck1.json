@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				-32
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-96
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Duck",
+	"position": [
+		100,
+		50
+	],
+	"healthicon": "duck",
+	"flip_x": false,
+	"healthbar_colors": [
+		53,
+		48,
+		82
+	],
+	"camera_position": [
+		30,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
