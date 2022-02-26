@@ -1,0 +1,67 @@
+{
+	"songs": [
+		[
+			"Nervous Wreck",
+			"stamp",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Cake",
+			"babycakes",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Subdue",
+			"duck",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Copycat",
+			"red",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Kaboom",
+			"pan",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "demo",
+	"weekName": "demo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
